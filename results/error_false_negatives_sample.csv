@@ -1,0 +1,16 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,campaign,pdays,previous,poutcome,Actual_y,Predicted_y
+49,management,married,secondary,no,99,yes,no,cellular,6,may,2,343,1,failure,1,0
+51,admin.,single,tertiary,no,394,no,no,telephone,28,jan,2,-1,0,unknown,1,0
+40,services,married,secondary,no,471,yes,no,cellular,24,jul,4,-1,0,unknown,1,0
+28,blue-collar,single,secondary,no,-127,yes,no,cellular,4,jul,3,-1,0,unknown,1,0
+40,technician,married,secondary,no,42,no,no,cellular,13,aug,2,-1,0,unknown,1,0
+59,technician,married,secondary,no,7766,yes,no,cellular,25,feb,1,461,1,failure,1,0
+50,management,married,tertiary,no,1396,no,no,cellular,25,aug,6,-1,0,unknown,1,0
+26,management,single,tertiary,no,114,yes,no,cellular,7,may,1,-1,0,unknown,1,0
+57,retired,married,tertiary,no,0,yes,yes,unknown,28,may,1,-1,0,unknown,1,0
+59,admin.,single,secondary,no,2166,yes,yes,cellular,7,may,1,-1,0,unknown,1,0
+48,entrepreneur,married,secondary,no,0,no,yes,cellular,28,jul,2,-1,0,unknown,1,0
+46,management,divorced,tertiary,no,1297,no,no,cellular,11,aug,3,-1,0,unknown,1,0
+44,technician,divorced,secondary,no,275,no,no,cellular,17,nov,1,-1,0,unknown,1,0
+53,admin.,married,secondary,no,3765,no,no,unknown,20,jun,3,-1,0,unknown,1,0
+53,admin.,single,secondary,no,654,no,no,unknown,10,jul,1,-1,0,unknown,1,0

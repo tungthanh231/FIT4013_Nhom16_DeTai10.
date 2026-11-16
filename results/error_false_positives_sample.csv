@@ -1,0 +1,16 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,campaign,pdays,previous,poutcome,Actual_y,Predicted_y
+34,services,single,secondary,no,1921,yes,no,cellular,4,feb,1,-1,0,unknown,0,1
+35,admin.,divorced,secondary,no,1803,no,no,cellular,28,jan,2,-1,0,unknown,0,1
+41,blue-collar,married,secondary,no,1384,yes,no,cellular,20,apr,4,340,4,success,0,1
+42,self-employed,married,tertiary,no,10072,no,no,cellular,22,apr,1,-1,0,unknown,0,1
+26,admin.,single,tertiary,no,3730,yes,no,cellular,11,mar,1,98,4,other,0,1
+31,entrepreneur,single,tertiary,no,1957,no,no,cellular,4,feb,3,-1,0,unknown,0,1
+42,management,married,tertiary,no,1205,no,no,telephone,15,mar,1,188,2,success,0,1
+61,retired,married,secondary,no,89,no,no,cellular,28,jan,2,92,3,failure,0,1
+39,admin.,married,tertiary,no,1322,yes,no,cellular,24,sep,3,486,1,other,0,1
+31,admin.,single,secondary,no,554,yes,no,cellular,25,may,3,103,2,failure,0,1
+58,retired,married,secondary,no,3382,no,yes,cellular,28,may,2,309,2,failure,0,1
+42,unemployed,single,primary,no,8037,no,no,cellular,5,jun,2,-1,0,unknown,0,1
+44,management,married,tertiary,no,170,no,no,cellular,4,jun,1,-1,0,unknown,0,1
+35,services,single,secondary,no,1701,yes,no,cellular,15,jun,1,67,3,other,0,1
+34,management,single,tertiary,no,2561,no,no,cellular,29,dec,1,-1,0,unknown,0,1
